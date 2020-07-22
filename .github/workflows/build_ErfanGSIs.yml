@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.3.0.QEECNXM/miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://ip3960528755.mobgslb.tbcache.com/Firmware/Flyme/16s_Pro/8.20.6.30/cn_beta/20200715101533/6792d222/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=fa79eca668d1f6e09b986e0dd936338a5d8d1db7fea5ac77&ali_redirect_ex_tmining_ts=1595386855&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: FLYME
   TZ: Asia/Shanghai
 
 jobs:
